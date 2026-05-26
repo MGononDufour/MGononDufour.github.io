@@ -24,7 +24,9 @@ about:
 
 Welcome! I am a PhD candidate in Economics at [CIRED](https://www.centre-cired.fr/en/) and [AgroParisTech](https://www.agroparistech.fr/en), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-My research addresses the financing of ecological transitions, with a focus on **biodiversity finance, climate finance, debt-for-nature swaps, and voluntary carbon markets**. I examine the political economy of environmental finance instruments, macro-financial constraints on sustainability transitions, and the institutional economics of North–South environmental funding. Empirical work spans Senegal, Colombia, and France.
+I examine the political economy of environmental finance instruments, macro-financial constraints on sustainability transitions, and the institutional economics of North–South environmental funding. Empirical work spans Senegal, Colombia, and France. I develop the **F–A–E framework** (Funding sources – implementing Agents – Ecological Actions) to analyse the contextual adequacy of financing instruments across income regimes and governance structures. Methods include Stock-Flow Consistent (SFC) macroeconomic modelling, econometrics, and mixed-methods empirical research.
+
+Empirical work examines official development assistance for biodiversity at the global scale, voluntary carbon markets in Senegal, biodiversity-harmful subsidies in France, and sovereign debt strategies for Colombia's ecological transition.
 
 I am also an Associate Researcher at the [French Development Agency (AFD)](https://www.afd.fr/en) and a Fellow of the [Earth System Governance Research Network](https://www.earthsystemgovernance.org/).
 
