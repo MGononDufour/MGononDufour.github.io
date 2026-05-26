@@ -6,7 +6,6 @@ title: "Teaching"
 
 | Year | Institution | Level | Course | Hours |
 |---|---|---|---|---|
-| 2025–26 | Sorbonne Paris Nord | M2 (EPOG) | Macroeconomics of the Green Transition | 6 h |
 | 2025–26 | École de Management Léonard de Vinci (EMLV) | Bachelor | International Economics | 15 h |
 | 2023–24 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 6 h |
 | 2023–24 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
@@ -29,7 +28,6 @@ Joint supervision with François Libois (PSE) and Antoine Godin (AFD).
 
 - **2025–26** — *Philosophie des inégalités écologiques* — Monthly seminar series, École Normale Supérieure (ENS), Paris
 - **2025–26** — *Economie écologique* — Monthly seminar series, EHESS, Paris
-- **Nov. 2025** — *Journées Doctorales "Regards Critiques sur le Développement"* — Co-organizer, 26–27 November 2025
 
 ---
 
