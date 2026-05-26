@@ -14,8 +14,6 @@ Download the full CV as a PDF: **[CV — Morgane Gonon (PDF)](cv.pdf)**
 CIRED / AgroParisTech / Université Paris-Saclay, Paris, France
 Supervised by Harold Levrel (AgroParisTech) and Antoine Godin (AFD), under the Ecological Accounting Chair.
 
----
-
 ## Affiliations
 
 - PhD Candidate, Université Paris-Saclay
@@ -23,43 +21,6 @@ Supervised by Harold Levrel (AgroParisTech) and Antoine Godin (AFD), under the E
 - Associate Researcher, French Development Agency ([AFD](https://www.afd.fr/en))
 - Former Associate Researcher, Coalition for Climate Capacity (C3A) Nature Hub, World Bank
 - Earth System Governance Research Fellow Network
-
----
-
-## Education
-
-| Year | Degree | Institution |
-|---|---|---|
-| 2020–2021 | Master, Energy, Finance & Carbon (EFC) | Université Paris Dauphine PSL |
-| 2018–2020 | Master, Administrative & Judicial Careers | Sciences Po Grenoble |
-| 2016–2017 | International Mobility Year | University of Ottawa |
-| 2015–2018 | Bachelor, Institutions & Mutations of Public Action | Sciences Po Grenoble |
-
----
-
-## Employment History
-
-**Short-Term Consultant** — *January 2024 – June 2025*
-The World Bank (C3A Nature Hub), Paris, France
-International financial instruments to reverse nature loss.
-
-**Data Analyst** — *May – November 2022*
-Office Français de la Biodiversité (OFB), Paris, France
-Developed the indicator "State Spending Harmful to Biodiversity" (Ecological Accounting Chair / FRB).
-
-**Secretary General** — *September 2019 – January 2022*
-Institut Rousseau, Paris, France
-Board of Directors and Editorial Committee; editorial strategy, working groups, press campaigns.
-
-**Intern** — *November 2019 – March 2020*
-ClimateWorks Australia (Monash University), Melbourne, Australia
-Net Zero Momentum Tracker; Land Use Futures; Energy Transition Initiative.
-
-**Student Intern** — *May – September 2019*
-Ministère de l'Économie et des Finances, Paris, France
-
-**Research Assistant** — *January – May 2019*
-Revue Française d'Administration Publique (RFAP) / École Nationale d'Administration (ENA), Strasbourg, France
 
 ---
 
@@ -116,3 +77,41 @@ See the [Research](research.qmd) page for the full list.
 |---|---|
 | **Pr. Harold Levrel** — AgroParisTech, Biodiversity Economics — [harold.levrel@agroparistech.fr](mailto:harold.levrel@agroparistech.fr) | **Dr. Antoine Godin** — Macroeconomist, AFD — [godina@afd.fr](mailto:godina@afd.fr) |
 | **Dr. Rémi Prud'homme** — Researcher, CIRAD — [remi.prudhomme@cirad.fr](mailto:remi.prudhomme@cirad.fr) | **Dr. Romain Svartzman** — Economist, Bocconi — [romain.svartzman@unibocconi.it](mailto:romain.svartzman@unibocconi.it) |
+
+---
+
+## Employment History
+
+**Short-Term Consultant** — *January 2024 – June 2025*
+The World Bank (C3A Nature Hub), Paris, France
+International financial instruments to reverse nature loss.
+
+**Data Analyst** — *May – November 2022*
+Office Français de la Biodiversité (OFB), Paris, France
+Developed the indicator "State Spending Harmful to Biodiversity" (Ecological Accounting Chair / FRB).
+
+**Secretary General** — *September 2019 – January 2022*
+Institut Rousseau, Paris, France
+Board of Directors and Editorial Committee; editorial strategy, working groups, press campaigns.
+
+**Intern** — *November 2019 – March 2020*
+ClimateWorks Australia (Monash University), Melbourne, Australia
+Net Zero Momentum Tracker; Land Use Futures; Energy Transition Initiative.
+
+**Student Intern** — *May – September 2019*
+Ministère de l'Économie et des Finances, Paris, France
+
+**Research Assistant** — *January – May 2019*
+Revue Française d'Administration Publique (RFAP) / École Nationale d'Administration (ENA), Strasbourg, France
+
+---
+## Education
+
+| Year | Degree | Institution |
+|---|---|---|
+| 2020–2021 | Master, Energy, Finance & Carbon (EFC) | Université Paris Dauphine PSL |
+| 2018–2020 | Master, Administrative & Judicial Careers | Sciences Po Grenoble |
+| 2016–2017 | International Mobility Year | University of Ottawa |
+| 2015–2018 | Bachelor, Institutions & Mutations of Public Action | Sciences Po Grenoble |
+
+---
