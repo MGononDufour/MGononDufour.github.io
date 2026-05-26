@@ -1,26 +1,6 @@
 ---
-title: "Teaching"
+title: "Teaching Conferences"
 ---
-
-## Teaching
-
-| Year | Institution | Level | Course | Hours |
-|---|---|---|---|---|
-| 2025–26 | École de Management Léonard de Vinci (EMLV) | Bachelor | International Economics | 15 h |
-| 2023–24 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 6 h |
-| 2023–24 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
-| 2023–24 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
-| 2023–24 | PSL | L3 (SMD) | Economics of Natural Resources | 3 h |
-| 2022–23 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 3 h |
-| 2022–23 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
-| 2022–23 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
-| 2022–23 | Université Paris Dauphine | L2 | Macroeconomics | 36 h |
-
-### Thesis Supervision
-
-**2024** — Co-supervision of a Master's thesis, Paris School of Economics (Master PPD)
-*"The tree that hides the forest? An exploratory approach to evaluating trade-offs in ecosystem restoration projects. A case study on the Great Green Wall in Senegal."*
-Joint supervision with François Libois (PSE) and Antoine Godin (AFD).
 
 ---
 
@@ -72,6 +52,28 @@ Joint supervision with François Libois (PSE) and Antoine Godin (AFD).
 - **2025** — "Préserver la Biodiversité — Regard d'économiste," *Congrès des Conservatoires des Espaces Naturels, AURA*, Lyon
 - **2024** — "Pourquoi et comment lutter contre l'effondrement de la biodiversité : l'économiste a-t-il des réponses?" *Tables rondes d'Économie et Finance écologiques*, Paris
 - **2023** — "Penser l'économie face à la perte de biodiversité," *Journées de l'Économie*, Lyon
+
+---
+
+## Teaching
+
+| Year | Institution | Level | Course | Hours |
+|---|---|---|---|---|
+| 2025–26 | École de Management Léonard de Vinci (EMLV) | Bachelor | International Economics | 15 h |
+| 2023–24 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 6 h |
+| 2023–24 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
+| 2023–24 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
+| 2023–24 | PSL | L3 (SMD) | Economics of Natural Resources | 3 h |
+| 2022–23 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 3 h |
+| 2022–23 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
+| 2022–23 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
+| 2022–23 | Université Paris Dauphine | L2 | Macroeconomics | 36 h |
+
+### Thesis Supervision
+
+**2024** — Co-supervision of a Master's thesis, Paris School of Economics (Master PPD)
+*"The tree that hides the forest? An exploratory approach to evaluating trade-offs in ecosystem restoration projects. A case study on the Great Green Wall in Senegal."*
+Joint supervision with François Libois (PSE) and Antoine Godin (AFD).
 
 ---
 
