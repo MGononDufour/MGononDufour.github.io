@@ -10,5 +10,14 @@
   },
   "teaching.qmd": {
     "teaching.html": "8e71ce9e"
+  },
+  "contact.qmd": {
+    "contact.html": "35872079"
+  },
+  "publications.qmd": {
+    "publications.html": "2562885d"
+  },
+  "working-papers.qmd": {
+    "working-papers.html": "391e9088"
   }
 }

@@ -115,4 +115,4 @@ See the [Research](research.qmd) page for the full list.
 | | |
 |---|---|
 | **Pr. Harold Levrel** — AgroParisTech, Biodiversity Economics — [harold.levrel@agroparistech.fr](mailto:harold.levrel@agroparistech.fr) | **Dr. Antoine Godin** — Macroeconomist, AFD — [godina@afd.fr](mailto:godina@afd.fr) |
-| **Dr. Rémi Prudhomme** — Researcher, CIRAD — [remi.prudhomme@cirad.fr](mailto:remi.prudhomme@cirad.fr) | **Dr. Romain Svartzman** — Economist, Bocconi — [romain.svartzman@unibocconi.it](mailto:romain.svartzman@unibocconi.it) |
+| **Dr. Rémi Prud'homme** — Researcher, CIRAD — [remi.prudhomme@cirad.fr](mailto:remi.prudhomme@cirad.fr) | **Dr. Romain Svartzman** — Economist, Bocconi — [romain.svartzman@unibocconi.it](mailto:romain.svartzman@unibocconi.it) |

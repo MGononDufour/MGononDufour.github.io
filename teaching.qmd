@@ -1,81 +1,85 @@
 ---
-title: "Teaching & Outreach"
+title: "Teaching"
 ---
 
 ## Teaching
 
-**International Economics** — *2026*
-École de Management Léonard de Vinci (EMLV), Bachelor in International Business — 15 h
+| Year | Institution | Level | Course | Hours |
+|---|---|---|---|---|
+| 2025–26 | Sorbonne Paris Nord | M2 (EPOG) | Macroeconomics of the Green Transition | 6 h |
+| 2025–26 | École de Management Léonard de Vinci (EMLV) | Bachelor | International Economics | 15 h |
+| 2023–24 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 6 h |
+| 2023–24 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
+| 2023–24 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
+| 2023–24 | PSL | L3 (SMD) | Economics of Natural Resources | 3 h |
+| 2022–23 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 3 h |
+| 2022–23 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
+| 2022–23 | AgroParisTech | Mastère spécialisé (PAPDD) | Ecosystem Services Valuation: from Public Policy to the Private Sector | 3 h |
+| 2022–23 | Université Paris Dauphine | L2 | Macroeconomics | 36 h |
 
-**Environmental Economics and Biodiversity Valuation** — *February 2023*
-AgroParisTech – Université Paris-Saclay, Master in Economics and Public Policy — 6 h
+### Thesis Supervision
 
-**Integrated Assessment of Ecosystem Services** — *December 2022 & December 2023*
-AgroParisTech – Université Paris-Saclay, Master in Agricultural Engineering — 6 h
-
-**Supervision of a Master's Thesis** — *2024*
-Paris School of Economics (PSE), Master in Public Policy and Development (PPD)
+**2024** — Co-supervision of a Master's thesis, Paris School of Economics (Master PPD)
 *"The tree that hides the forest? An exploratory approach to evaluating trade-offs in ecosystem restoration projects. A case study on the Great Green Wall in Senegal."*
 Joint supervision with François Libois (PSE) and Antoine Godin (AFD).
-
-**Ecosystem Accounting** — *December 2022 & December 2023*
-Paris School of Economics (PSE), Bachelor in Environmental and Resource Economics — 6 h
-
-**Macroeconomics** — *September – December 2022*
-Université Paris-Dauphine – PSL, Bachelor in Economics — 64 h
 
 ---
 
 ## Seminar Organisation
 
-**Philosophy of Ecological Inequalities** — *2025–2026*
-Monthly seminar series, co-organizer — hosted at École Normale Supérieure (ENS), Paris
-
-**Ecological Economics** — *2025–2026*
-Monthly seminar series, co-organizer — hosted at EHESS, Paris
+- **2025–26** — *Philosophie des inégalités écologiques* — Monthly seminar series, École Normale Supérieure (ENS), Paris
+- **2025–26** — *Economie écologique* — Monthly seminar series, EHESS, Paris
+- **Nov. 2025** — *Journées Doctorales "Regards Critiques sur le Développement"* — Co-organizer, 26–27 November 2025
 
 ---
 
-## Selected Presentations
+## Presentations
 
 ### International Conferences
 
-- **2025** — "Chronicle of a Debt Foretold: Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition," *BIOECON Conference*, Cambridge, UK
+- **2026** — "Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework," *World Inequality Lab Conference*, Paris
+- **2026** — "Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework," *WCERE*, Cascais, Portugal
+- **2025** — "Chronicle of a Debt Foretold: Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition," *BioEcon*, Cambridge, UK
 - **2025** — "Selective Carbon Credits: Market Preferences and Ecosystem Restoration in Senegal," *LAERE*, Bogotá, Colombia
 - **2024** — "Selective Carbon Credits: Ecosystem Restoration and Market Preferences," *BioEcon*, Cambridge, UK
-- **2024** — "North-South Financial Flows for Biodiversity: A Remedy or an Aggravation of Hierarchical Patterns?" *Global Goals Conference*, Utrecht, Netherlands
-- **2024** — "Building a Multidimensional Biodiversity Harmful Subsidies Indicator," *FAERE*, Paris, France
-- **2022** — "Biodiversity Harmful Subsidies," *15th Conference on Strong Sustainability*, AFD, Paris, France
+- **2024** — "North–South Financial Flows for Biodiversity: A Remedy or an Aggravation of Hierarchical Patterns?" *Global Goals Conference*, Utrecht, Netherlands
+- **2024** — "Building a Multidimensional Biodiversity Harmful Subsidies Indicator," *FAERE*, Orléans, France
+- **2024** — "Selective Carbon Credits," *Rencontres des études africaines (REAF)*, Nice, France
+- **2024** — "A Structural Perspective on the Economics of Ecological Restoration," *École d'été Dakar — Les Ateliers de la Pensée*, Dakar, Senegal
+- **2022** — "Building a Multidimensional Biodiversity Harmful Subsidies Indicator," *15th International Research Conference on Strong Sustainability*, AFD, Paris
 
 ### Invited Talks & Seminars
 
-- **January 2026** — "Building Green Debt Strategies in a Fossil Fuel-Dependent Economy," *CEEM Seminar*, Montpellier
-- **December 2025** — "Construire des stratégies nationales de financement de la biodiversité," *UMI Source Academic Seminar*, Guyancourt
-- **2025** — "Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition," *Workshop on Macroeconomic Challenges of the Transition*, Pisa, Italy
+- **2026** — "Rationalité économique et préservation écologique," *Union Rationaliste*, Paris
+- **2026** — "Savoirs écologiques et économiques," *CIRCEE Seminar*, Paris
+- **Jan. 2026** — "Building Green Debt Strategies in a Fossil Fuel-Dependent Economy," *CEEM Seminar*, Montpellier
+- **Dec. 2025** — "Construire des stratégies nationales de financement de la biodiversité," *UMI Source Academic Seminar*, Guyancourt
+- **Dec. 2025** — "Strong sustainability decision-support tools for nature-positive horizons," *Earth Capital Nexus — AFD Workshop*, London
 - **2025** — "Chronicle of a Debt Foretold," *Oxford–LSE Nature Finance Initiative*, Oxford, UK
+- **2025** — "Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition," *Workshop on Macroeconomic Challenges of the Transition*, Pisa, Italy
 - **2025** — "Selective Carbon Credits," *Duke UPEP Seminar*, Durham, USA
 - **2025** — "Debt Relief for Colombia's Climate and Biodiversity Goals," *EAERE Winter School*, Annecy, France
+- **2025** — "Chronicle of a Debt Foretold," *AFEP Congress*, Bordeaux, France
+- **2025** — "'Restorative Economics': A Research Agenda for Environmental Justice," *AFEP Congress*, Bordeaux, France
 - **2024** — "Selective Carbon Credits," *CIRED Seminar*, Paris
 - **2024** — "Contribution of the Voluntary Carbon Market to Land Restoration in Senegal," *PPSEE*, Paris
+- **2024** — "Looking at the Predator, not the Prey: The Next Frontier in Biodiversity Economics," *Summer School M2DM*, Les Houches, France *(poster)*
+- **2024** — "Financing Biodiversity: Prospects and Promises for a Changing Landscape," *COPAR Research Conference*, AFD, Paris
+- **2023** — "Financing Ecological Restoration: The Case of Senegal," *Université d'été GMV*, La Rochelle, France
+- **2023** — "Mobilisation des ressources pour la biodiversité," *ISRA–CNRF Seminar*, Dakar, Senegal
 
-### National Conferences
+### Outreach & Popularization
 
-- **2025** — "'Restorative Economics': A Research Agenda for Economic Studies in the Context of Environmental Justice," *Political Economy Association*, Bordeaux, France
-- **2023** — "Financing Ecological Restoration: The Case of Senegal," *Geographic Bioeconomy: Water and Energy*, Université de La Rochelle, France
+- **2026** — "Economie et Biodiversité: le Pourquoi du Comment?" *Congrès des Conservatoires des Espaces Naturels, Hauts-de-France*, Lille
+- **2025** — "Préserver la Biodiversité — Regard d'économiste," *Congrès des Conservatoires des Espaces Naturels, AURA*, Lyon
+- **2024** — "Pourquoi et comment lutter contre l'effondrement de la biodiversité : l'économiste a-t-il des réponses?" *Tables rondes d'Économie et Finance écologiques*, Paris
+- **2023** — "Penser l'économie face à la perte de biodiversité," *Journées de l'Économie*, Lyon
 
 ---
 
-## Contact
+## Policy Engagement
 
-**Email:** morgane.gonon [at] agroparistech.fr
+- **Feb. 2026** — Scientific Advisory Expert, French Delegation (Ministry of Foreign Affairs) — *IPBES Plenary on Business and Biodiversity*, Manchester, UK
+- **Mar. 2025** — Invited Speaker, *Ministry of Finance (Hacienda)*, Bogotá, Colombia
+- **Dec. 2022** — Delegate, Young Scholars Initiative (IUCN France) — *COP 15 on Biodiversity*, Montreal, Canada
 
-**Address:**
-CIRED — Centre International de Recherche sur l'Environnement et le Développement
-45 bis avenue de la Belle Gabrielle, 94130 Nogent-sur-Marne, France
-
-**Profiles:**
-[Google Scholar](https://scholar.google.com/citations?user=PE5P9CoAAAAJ) &nbsp;|&nbsp;
-[ORCID](https://orcid.org/0009-0004-4811-4442) &nbsp;|&nbsp;
-[LinkedIn](https://www.linkedin.com/in/morgane-gonon-861879106/) &nbsp;|&nbsp;
-[GitHub](https://github.com/MGononDufour) &nbsp;|&nbsp;
-[CIRED](https://www.centre-cired.fr/en/)

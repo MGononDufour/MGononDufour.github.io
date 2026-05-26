@@ -1,0 +1,45 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Articles
+
+**Chronicle of a Debt Foretold: Green Debt Strategies in a Fossil Fuel-Dependent Economy**
+Morgane Gonon, Antoine Godin, Louis Daumas, Jeffrey Althouse & Romain Svartzman
+*International Review of Economics and Finance* 109, 2026
+[[DOI]](https://doi.org/10.1016/j.iref.2026.105301)
+
+<br>
+
+**Selective Carbon Credits: Market Preferences and Ecosystem Restoration in Senegal**
+Morgane Gonon, Rémi Prudhomme, Marieme Ba, Penda Diop, Tamsir Mbaye, Harold Levrel & Adrien Comte
+*Ecological Economics* 235, 2025
+[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108626)
+
+<br>
+
+**Subsidies against Nature: A Multidimensional Framework for Biodiversity-Aligned National Budgets**
+Morgane Gonon, Améline Vallet, Vincent Deschamps, Amélie Le Mieux, Aurélien Oosterlinck, Hélène Soubelet, Louise Dupuis & Harold Levrel
+*Ecological Economics* 235, 2025
+[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108661)
+
+<br>
+
+**Economic Knowledge for Nature Preservation: An Epistemic Inquiry into Spatial Prioritisation and International Action**
+Morgane Gonon
+*Global Africa* 11, 2025
+[[DOI]](https://doi.org/10.57832/4gcb-e751)
+
+---
+
+## Under Review
+
+**New Nature–Economy Models are Needed to Understand the Macroeconomic and Financial Implications of the Ecological Transition**
+Romain Svartzman, Jeffrey Althouse, Morgane Gonon, Katie Kedward, Adam Poupard, Bastien Bedossa, Étienne Espagne & Angela Modica Scala
+Submitted to *Nature Perspectives*
+
+<br>
+
+**Systematic Classification of Biodiversity-Related Aid Using Natural Language Processing**
+Kerstin Wildgruber, Morgane Gonon, Moritz Tötzke & Florian Egli
+Submitted to *Nature Sustainability*

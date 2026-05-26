@@ -1,149 +1,106 @@
 ---
-title: "Research"
----
-
-My research examines how biodiversity financing mechanisms shape the content and distribution of ecological investment. I focus on the contextual adequacy of instruments across income regimes and governance structures — from official development finance and voluntary carbon markets to sovereign debt and national budget reform.
-
----
-
-## Peer-Reviewed Articles
-
-**Chronicle of a Debt Foretold: Green Debt Strategies in a Fossil Fuel-Dependent Economy**
-with Antoine Godin, Louis Daumas, Jeffrey Althouse & Romain Svartzman
-*International Review of Economics and Finance* 109, 2026
-[[DOI]](https://doi.org/10.1016/j.iref.2026.105301)
-
-<br>
-
-**Selective Carbon Credits: Market Preferences and Ecosystem Restoration in Senegal**
-with Rémi Prudhomme, Marieme Ba, Penda Diop, Tamsir Mbaye, Harold Levrel & Adrien Comte
-*Ecological Economics* 235, 2025
-[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108626)
-
-<br>
-
-**Subsidies against Nature: A Multidimensional Framework for Biodiversity-Aligned National Budgets**
-with Améline Vallet, Vincent Deschamps, Amélie Le Mieux, Aurélien Oosterlinck, Hélène Soubelet, Louise Dupuis & Harold Levrel
-*Ecological Economics* 235, 2025
-[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108661)
-
-<br>
-
-**Economic Knowledge for Nature Preservation: An Epistemic Inquiry into Spatial Prioritisation and International Action**
-*Global Africa* 11, 2025
-[[DOI]](https://doi.org/10.57832/4gcb-e751)
-
----
-
-## Under Review
-
-**New Nature–Economy Models are Needed to Understand the Macroeconomic and Financial Implications of the Ecological Transition**
-with Romain Svartzman, Jeffrey Althouse, Katie Kedward, Adam Poupard, Bastien Bedossa, Étienne Espagne & Angela Modica Scala
-Submitted to *Nature Perspectives*
-
-<br>
-
-**Systematic Classification of Biodiversity-Related Aid Using Natural Language Processing**
-with Kerstin Wildgruber, Moritz Tötzke & Florian Egli
-Submitted to *Nature Sustainability*
-
+title: "Working Papers"
 ---
 
 ## Ongoing Work
 
 **Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework**
+Morgane Gonon
 *In preparation*
 
 <br>
 
 **Market–Policy Coordination for Environmental Objectives across Institutional Contexts**
+Morgane Gonon
 *Job market paper*
 
 <br>
 
 **Bioeconomy and Responsibility: An Ethical Framework for the Hybridisation of Knowledge**
-with Felwine Sarr — *in preparation*
+Morgane Gonon & Felwine Sarr
+*In preparation*
 
 ---
 
 ## Working Papers & Preprints
 
 **Après l'encastrement. Savoirs économiques et transformations écologiques**
-with Hugo Mosneron Dupin
+Morgane Gonon & Hugo Mosneron Dupin
 *CIRED Working Papers* 2026-99, 2026
 
 <br>
 
 **Chronicle of a Debt Foretold: Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition**
-with Antoine Godin, Louis Daumas, Jeffrey Althouse & Romain Svartzman
+Morgane Gonon, Antoine Godin, Louis Daumas, Jeffrey Althouse & Romain Svartzman
 *CEPR Discussion Paper*, 2025
 [[Paper]](https://cepr.org/publications/dp20443)
 
 <br>
 
 **Avenues for Exploring Nature Scenarios in Ecological Macroeconomic Models**
-with Katie Kedward
+Katie Kedward & Morgane Gonon
 *SSRN Preprint* 5200146, 2025
 [[Preprint]](https://ssrn.com/abstract=5200146)
 
 <br>
 
 **From Climate to Nature Macro-Criticality: Exploring New Scenarios and Modelling Frameworks**
-with Jeffrey Althouse, Bastien Bedossa, Étienne Espagne, Léna Faucher, Katie Kedward, Angela Modica Scala & Adam Poupard
+Jeffrey Althouse, Bastien Bedossa, Étienne Espagne, Léna Faucher, Morgane Gonon, Katie Kedward, Angela Modica Scala & Adam Poupard
 *CEPR Discussion Paper*, 2025
 
 <br>
 
 **Building a Multidimensional Biodiversity Harmful Subsidies Indicator to Support Transition Policies: The Case of France**
-with Améline Vallet, Vincent Deschamps, Aurélien Oosterlinck, Amélie Le Mieux, Hélène Soubelet, Louise Dupuis & Harold Levrel
+Morgane Gonon, Améline Vallet, Vincent Deschamps, Aurélien Oosterlinck, Amélie Le Mieux, Hélène Soubelet, Louise Dupuis & Harold Levrel
 *SSRN Scholarly Paper* 4713237, 2024
 [[Preprint]](https://doi.org/10.2139/ssrn.4713237)
 
 <br>
 
 **Bridging the Gap in Biodiversity Financing: A Review of Assessments of Existing and Needed Financial Flows for Biodiversity**
-with Romain Svartzman & Jeffrey Althouse
+Morgane Gonon, Romain Svartzman & Jeffrey Althouse
 *UCL Institute for Innovation and Public Purpose*, 2024
 
 <br>
 
 **Financer la restauration écologique : un paysage en mutation. Le cas du Sénégal**
-with Pape Diop, Mamadou Kande, Quentin Merour, Rémi Prudhomme & Adrien Comte
+Morgane Gonon, P. Diop, M. Kande, Quentin Merour, Rémi Prudhomme & Adrien Comte
 *Cahiers de l'OHMi Téssékéré*, CNRS, no. 12 (2024): 29–41
 
 ---
 
-## Policy Briefs & Blog Posts
+## Policy Briefs
 
 **Biodiversity COP 16: Where EU Member States Stand on National Biodiversity Strategies and Action Plans**
-with Jeffrey Althouse, Léna Faucher & Romain Svartzman
+Jeffrey Althouse, Léna Faucher, Morgane Gonon & Romain Svartzman
 *Institute for European Policymaking, Bocconi University*, 2024
 [[Post]](https://iep.unibocconi.eu/biodiversity-cop-16-where-eu-member-states-stand-national-biodiversity-strategies-and-action-plans)
 
 <br>
 
 **Limiter l'artificialisation des sols pour éviter une dette écologique se chiffrant en dizaines de milliards d'euros**
-with Chloé Surun & Harold Levrel
+Chloé Surun, Harold Levrel & Morgane Gonon
 *The Conversation*, August 25, 2021
 [[Article]](https://theconversation.com/limiter-lartificialisation-des-sols-pour-eviter-une-dette-ecologique-se-chiffrant-en-dizaines-de-milliards-deuros-166073)
 
 <br>
 
 **Zéro artificialisation nette : de la Convention citoyenne au texte de loi, une trajectoire en débat**
-with Clara Claron, Luc Elie & Sarah Batellier
+Clara Claron, Morgane Gonon, Luc Elie & Sarah Batellier
 *Fonciers en débat*, June 15, 2021
 [[Article]](https://fonciers-en-debat.com/zero-artificialisation-nette-de-la-convention-citoyenne-au-texte-de-loi-une-trajectoire-en-debat/)
 
 <br>
 
 **Stop à la neutralité carbone en trompe-l'œil : l'empreinte carbone au service d'une nouvelle stratégie industrielle**
+Morgane Gonon
 *Institut Rousseau*, December 7, 2021
 [[Article]](https://institut-rousseau.fr/stop-a-la-neutralite-carbone-en-trompe-loeil-lempreinte-carbone-au-service-dune-nouvelle-strategie-industrielle/)
 
 <br>
 
 **Faire évoluer les outils comptables pour "réencastrer" l'activité économique dans son environnement**
-with B. Métadier
+Morgane Gonon & B. Métadier
 *Institut Rousseau*, July 2, 2020
 [[Article]](https://institut-rousseau.fr/faire-evoluer-les-outils-comptables-pour-reencastrer-lactivite-economique-dans-son-environnement/)
 
@@ -153,5 +110,5 @@ with B. Métadier
 
 **Une dette écologique pour fonder les politiques de préservation du vivant**
 Defining a national accounting framework in strong sustainability adapted to the fight against land artificialisation.
-Université Paris Dauphine, 2021 — *Veblen Prize (Master's Thesis Award, 2022)*
+Morgane Gonon — Université Paris Dauphine, 2021 — *Veblen Prize (Master's Thesis Award, 2022)*
 [[Full text]](https://www.veblen-institute.org/IMG/pdf/19_-_m_-_une_dette_ecologique_pour_fonder_lespolitiques_de_preservation_du_vivant.pdf)

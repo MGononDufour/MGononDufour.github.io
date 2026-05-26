@@ -11,12 +11,16 @@ website:
     left:
       - text: "About"
         href: index.qmd
-      - text: "Research"
-        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Working Papers"
+        href: working-papers.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Teaching & Outreach"
+      - text: "Teaching"
         href: teaching.qmd
+      - text: "Contact"
+        href: contact.qmd
   page-footer:
     center: "Morgane Gonon &mdash; CIRED / AgroParisTech / Université Paris-Saclay"
 
