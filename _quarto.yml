@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Morgane Gonon"
+  navbar:
+    background: "#3d6b55"
+    foreground: "white"
+    search: false
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Teaching & Outreach"
+        href: teaching.qmd
+  page-footer:
+    center: "Morgane Gonon &mdash; CIRED / AgroParisTech / Université Paris-Saclay"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+execute:
+  freeze: auto

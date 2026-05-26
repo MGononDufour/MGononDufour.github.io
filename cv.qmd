@@ -1,0 +1,118 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: {.callout-note appearance="minimal"}
+Download the full CV as a PDF: **[CV — Morgane Gonon (PDF)](cv.pdf)**
+:::
+
+---
+
+## Current Position
+
+**PhD Candidate in Ecological Economics** — *September 2022 – present*
+CIRED / AgroParisTech / Université Paris-Saclay, Paris, France
+Supervised by Harold Levrel (AgroParisTech) and Antoine Godin (AFD), under the Ecological Accounting Chair.
+
+---
+
+## Affiliations
+
+- PhD Candidate, Université Paris-Saclay
+- International Research Center for Environment and Development ([CIRED](https://www.centre-cired.fr/en/))
+- Associate Researcher, French Development Agency ([AFD](https://www.afd.fr/en))
+- Former Associate Researcher, Coalition for Climate Capacity (C3A) Nature Hub, World Bank
+- Earth System Governance Research Fellow Network
+
+---
+
+## Education
+
+| Year | Degree | Institution |
+|---|---|---|
+| 2020–2021 | Master, Energy, Finance & Carbon (EFC) | Université Paris Dauphine PSL |
+| 2018–2020 | Master, Administrative & Judicial Careers | Sciences Po Grenoble |
+| 2016–2017 | International Mobility Year | University of Ottawa |
+| 2015–2018 | Bachelor, Institutions & Mutations of Public Action | Sciences Po Grenoble |
+
+---
+
+## Employment History
+
+**Short-Term Consultant** — *January 2024 – June 2025*
+The World Bank (C3A Nature Hub), Paris, France
+International financial instruments to reverse nature loss.
+
+**Data Analyst** — *May – November 2022*
+Office Français de la Biodiversité (OFB), Paris, France
+Developed the indicator "State Spending Harmful to Biodiversity" (Ecological Accounting Chair / FRB).
+
+**Secretary General** — *September 2019 – January 2022*
+Institut Rousseau, Paris, France
+Board of Directors and Editorial Committee; editorial strategy, working groups, press campaigns.
+
+**Intern** — *November 2019 – March 2020*
+ClimateWorks Australia (Monash University), Melbourne, Australia
+Net Zero Momentum Tracker; Land Use Futures; Energy Transition Initiative.
+
+**Student Intern** — *May – September 2019*
+Ministère de l'Économie et des Finances, Paris, France
+
+**Research Assistant** — *January – May 2019*
+Revue Française d'Administration Publique (RFAP) / École Nationale d'Administration (ENA), Strasbourg, France
+
+---
+
+## Research Visits
+
+| Year | Institution | Location | Host |
+|---|---|---|---|
+| 2026 | Sciences Po – CRIS | Paris, France | Dr. Lucas Chancel |
+| 2025 | Technical University of Munich (TUM) | Munich, Germany | Pr. Florian Egli |
+| Feb.–Mar. 2025 | Duke University | Durham, USA | Pr. Felwine Sarr |
+| Feb.–Jun. 2023 | Senegalese Institute for Agricultural Research (ISRA) | Dakar, Senegal | Pr. Tamsir Mbaye |
+
+---
+
+## Fellowships & Awards
+
+- **2026** — Charles Gide Grant, Economy and Philosophy research program
+- **2023** — CLAND Grant (cross-disciplinary research on biodiversity dynamics and land-use socio-economics)
+- **2022** — [Veblen Prize](https://www.veblen-institute.org/Morgane-Gonon-et-Mandie-Joulin-co-laureates-du-Prix-Veblen-2022.html) — Master's Thesis Award
+
+---
+
+## Policy Experience
+
+**Expert, French Delegation** (Ministry of Foreign Affairs)
+IPBES Plenary on Business and Biodiversity, Manchester, UK — *February 2026*
+
+**Invited Speaker**, Ministry of Finance (Hacienda), Bogotá, Colombia — *March 2025*
+
+**Delegate**, Young Scholars Initiative (IUCN France)
+COP 15 on Biodiversity, Montreal, Canada — *December 2022*
+
+---
+
+## Publications
+
+See the [Research](research.qmd) page for the full list.
+
+---
+
+## Skills
+
+**Programming:** R (data.table, tidyverse, Rcpp), Python, LaTeX
+
+**Methods:** Ecological economics · SFC macroeconomic modelling · Econometrics · Sensitivity analysis · Optimal transport · NLP/text analysis · Multi-objective optimisation
+
+**Languages:** French (native) · English (C1) · German (B2) · Russian (A2)
+
+---
+
+## Referees
+
+| | |
+|---|---|
+| **Pr. Harold Levrel** — AgroParisTech, Biodiversity Economics — [harold.levrel@agroparistech.fr](mailto:harold.levrel@agroparistech.fr) | **Dr. Antoine Godin** — Macroeconomist, AFD — [godina@afd.fr](mailto:godina@afd.fr) |
+| **Dr. Rémi Prudhomme** — Researcher, CIRAD — [remi.prudhomme@cirad.fr](mailto:remi.prudhomme@cirad.fr) | **Dr. Romain Svartzman** — Economist, Bocconi — [romain.svartzman@unibocconi.it](mailto:romain.svartzman@unibocconi.it) |

@@ -1,0 +1,31 @@
+---
+title: "Morgane Gonon"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - text: CIRED
+      href: https://www.centre-cired.fr/en/
+    - text: AgroParisTech
+      href: https://www.agroparistech.fr/en
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=PE5P9CoAAAAJ
+    - icon: linkedin
+      href: https://www.linkedin.com/in/morgane-gonon-861879106/
+    - text: ORCID
+      href: https://orcid.org/0009-0004-4811-4442
+    - icon: github
+      href: https://github.com/MGononDufour
+---
+
+<br>
+
+Welcome! I am a **PhD candidate in Ecological Economics** at [CIRED](https://www.centre-cired.fr/en/) and [AgroParisTech](https://www.agroparistech.fr/en), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), under the supervision of Harold Levrel and Antoine Godin.
+
+My research addresses the financing of ecological transitions, with a focus on **biodiversity finance, climate finance, debt-for-nature swaps, and voluntary carbon markets**. I examine the political economy of environmental finance instruments, macro-financial constraints on sustainability transitions, and the institutional economics of North–South environmental funding. Empirical work spans Senegal, Colombia, and France.
+
+I am also an Associate Researcher at the [French Development Agency (AFD)](https://www.afd.fr/en) and a Fellow of the [Earth System Governance Research Network](https://www.earthsystemgovernance.org/).
+
+**Contact**: morgane.gonon [at] agroparistech.fr

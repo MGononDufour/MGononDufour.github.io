@@ -1,0 +1,139 @@
+---
+title: "Research"
+---
+
+My research lies at the intersection of ecological economics, sustainable finance, and political economy. I focus on financing gaps for biodiversity and climate action, macro-financial conditions for ecological transitions, and the institutional economics of environmental finance instruments.
+
+---
+
+## Peer-Reviewed Articles
+
+**Chronicle of a Debt Foretold: Green Debt Strategies in a Fossil Fuel-Dependent Economy**
+with Antoine Godin, Louis Daumas, Josh Althouse & Romain Svartzman
+*International Review of Economics and Finance*, 2026
+[[DOI]](https://doi.org/10.1016/j.iref.2026.105301)
+
+<br>
+
+**Selective Carbon Credits: Market Preferences and Ecosystem Restoration in Senegal**
+with Romain Prudhomme, Mamadou Ba, Pape Diop, Tamsir Mbaye, Harold Levrel & Antoine Comte
+*Ecological Economics* 235, 2025
+[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108626)
+
+<br>
+
+**Subsidies against Nature: A Multidimensional Framework for Biodiversity-Aligned National Budgets**
+with Adeline Vallet, Vincent Deschamps, Alexis Le Mieux, Antoine Oosterlinck, Hélène Soubelet, Lucie Dupuis & Harold Levrel
+*Ecological Economics* 235, 2025
+[[DOI]](https://doi.org/10.1016/j.ecolecon.2025.108661)
+
+<br>
+
+**Economic Knowledge for Nature Preservation: An Epistemic Inquiry into Spatial Prioritization and International Action**
+*Global Africa* 11, 2025
+[[DOI]](https://doi.org/10.57832/4GCB-E751)
+
+---
+
+## Under Review
+
+**New Nature–Economy Models are Needed to Understand the Macroeconomic and Financial Implications of the Ecological Transition**
+with Romain Svartzman, Josh Althouse, Katie Kedward, Arthur Poupard, Baptiste Bedossa, Étienne Espagne & Andrea Modica Scala
+Submitted to *Nature Perspectives*
+
+<br>
+
+**Systematic Classification of Biodiversity-Related Aid Using Natural Language Processing**
+with Kerstin Wildgruber, Moritz Tötzke & Florian Egli
+Submitted to *Nature Sustainability*
+
+---
+
+## Ongoing Work
+
+**Market–Policy Coordination for Environmental Objectives across Institutional Contexts**
+*Job market paper*
+
+<br>
+
+**Bioeconomy and Responsibility: An Ethical Framework for the Hybridisation of Knowledge**
+with Felwine Sarr — *manuscript in preparation*
+
+---
+
+## Working Papers & Preprints
+
+**Après l'encastrement. Savoirs économiques et transformations écologiques**
+with Hugo Mosneron Dupin
+*CIRED Working Papers*, 2026
+
+<br>
+
+**Chronicle of a Debt Foretold: Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition**
+with Antoine Godin, Louis Daumas, Josh Althouse & Romain Svartzman
+*CEPR Discussion Paper*, 2025
+
+<br>
+
+**Avenues for Exploring Nature Scenarios in Ecological Macroeconomic Models**
+with Katie Kedward
+*SSRN Preprint* 5200146, 2025
+[[Preprint]](https://ssrn.com/abstract=5200146)
+
+<br>
+
+**From Climate to Nature Macro-Criticality: Exploring New Scenarios and Modelling Frameworks**
+with Josh Althouse, Baptiste Bedossa, Étienne Espagne, Léa Faucher, Katie Kedward, Andrea Modica Scala & Arthur Poupard
+*CEPR Discussion Paper*, 2025
+
+<br>
+
+**Bridging the Gap in Biodiversity Financing: A Review of Assessments of Existing and Needed Financial Flows for Biodiversity**
+with Romain Svartzman & Josh Althouse
+*UCL Institute for Innovation and Public Purpose*, 2024
+
+<br>
+
+**Financer la restauration écologique : un paysage en mutation. Le cas du Sénégal**
+with Pape Diop, Mamadou Kande, Quentin Merour, Romain Prudhomme & Antoine Comte
+*Cahiers de l'OHMi Téssékéré*, CNRS, no. 12 (2024): 29–41
+
+---
+
+## Policy Briefs & Blog Posts
+
+**Biodiversity COP 16: Where EU Member States Stand on National Biodiversity Strategies and Action Plans**
+with Josh Althouse, Léa Faucher & Romain Svartzman
+*Institute for European Policymaking, Bocconi University*, 2024
+
+<br>
+
+**Limiter l'artificialisation des sols pour éviter une dette écologique se chiffrant en dizaines de milliards d'euros**
+with Chloé Surun & Harold Levrel
+*The Conversation*, August 25, 2021
+
+<br>
+
+**Zéro artificialisation nette : de la Convention citoyenne au texte de loi, une trajectoire en débat**
+with Clara Claron, Luc Elie & Sarah Batellier
+*Fonciers en débat*, June 15, 2021
+
+<br>
+
+**Stop à la neutralité carbone en trompe-l'œil : l'empreinte carbone au service d'une nouvelle stratégie industrielle**
+*Institut Rousseau*, December 7, 2021
+
+<br>
+
+**Faire évoluer les outils comptables pour "réencastrer" l'activité économique dans son environnement**
+with B. Métadier
+*Institut Rousseau*, July 2, 2020
+
+---
+
+## Master Thesis
+
+**Une dette écologique pour fonder les politiques de préservation du vivant**
+Defining a national accounting framework in strong sustainability adapted to the fight against land artificialisation.
+Université Paris Dauphine, 2021 — *Veblen Prize (Master's Thesis Award, 2022)*
+[[Full text]](https://www.veblen-institute.org/IMG/pdf/19_-_m_-_une_dette_ecologique_pour_fonder_lespolitiques_de_preservation_du_vivant.pdf)
