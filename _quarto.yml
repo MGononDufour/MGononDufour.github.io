@@ -17,7 +17,7 @@ website:
         href: working-papers.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Teaching"
+      - text: "Teaching & Presentations"
         href: teaching.qmd
       - text: "Contact"
         href: contact.qmd
