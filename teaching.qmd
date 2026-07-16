@@ -16,7 +16,7 @@ title: "Teaching & Presentations"
 ### International Conferences
 
 - **2026** — "Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework," *World Inequality Lab Conference*, Paris
-- **2026** — "Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework," *WCERE*, Cascais, Portugal
+- **2026** — "Who Owns the Green Transition? Unequal Access to Finance in a Dynamic Framework," *WCERE*, Carcavelos, Portugal
 - **2025** — "Chronicle of a Debt Foretold: Sovereign Debt Management Strategies for Colombia's Climate and Biodiversity Transition," *BioEcon*, Cambridge, UK
 - **2025** — "Selective Carbon Credits: Market Preferences and Ecosystem Restoration in Senegal," *LAERE*, Bogotá, Colombia
 - **2024** — "Selective Carbon Credits: Ecosystem Restoration and Market Preferences," *BioEcon*, Cambridge, UK
@@ -59,6 +59,7 @@ title: "Teaching & Presentations"
 
 | Year | Institution | Level | Course | Hours |
 |---|---|---|---|---|
+| 2026–27 | Sciences Po Climate School | Master | Reading seminar | 18 h |
 | 2025–26 | École de Management Léonard de Vinci (EMLV) | Bachelor | International Economics | 15 h |
 | 2023–24 | AgroParisTech + ENPC + UPS + IFP + INSTN + Paris Nanterre + CentraleSupélec | M1–M2 (EEET) | Ecological Economics | 6 h |
 | 2023–24 | AgroParisTech | M2 (CLUES, GSSE) | Integrated Assessment of Ecosystem Services and Sustainability | 3.5 h |
