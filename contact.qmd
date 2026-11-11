@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-**Email:** morgane.gonon [at] agroparistech.fr
+**Email:** morgane.gonon [at] sciencespo.fr
 
 **Address:**
 CIRED — Centre International de Recherche sur l'Environnement et le Développement

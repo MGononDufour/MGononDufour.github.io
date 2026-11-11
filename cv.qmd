@@ -10,15 +10,21 @@ Download the full CV as a PDF: **[CV — Morgane Gonon (PDF)](cv.pdf)**
 
 ## Current Position
 
-**PhD Candidate in Ecological Economics** — *September 2022 – present*
-CIRED / AgroParisTech / Université Paris-Saclay, Paris, France
+**Macroeconomic Modeller** — *2026 – present*
+French Development Agency (AFD), Paris, France
+Horizon Europe project SPARK4B+.
+
+## PhD
+
+**PhD in Economics**, Université Paris-Saclay (CIRED / AgroParisTech) — *defended 5 October 2026*
+*Biodiversity-Related Investment: The Contextual Adequacy of Financing Mechanisms*
 Supervised by Harold Levrel (AgroParisTech) and Antoine Godin (AFD), under the Ecological Accounting Chair.
+Jury: Aurélie Charles, Lucas Chancel, Philippe Delacote, Ben Groom, Agnès Labrousse, Nicola Ranger.
 
 ## Affiliations
 
-- PhD Candidate, Université Paris-Saclay
+- Macroeconomic Modeller, French Development Agency ([AFD](https://www.afd.fr/en))
 - International Research Center for Environment and Development ([CIRED](https://www.centre-cired.fr/en/))
-- Associate Researcher, French Development Agency ([AFD](https://www.afd.fr/en))
 - Former Associate Researcher, Coalition for Climate Capacity (C3A) Nature Hub, World Bank
 - Earth System Governance Research Fellow Network
 
@@ -110,6 +116,7 @@ Revue Française d'Administration Publique (RFAP) / École Nationale d'Administr
 
 | Year | Degree | Institution |
 |---|---|---|
+| 2022–2026 | PhD in Economics | Université Paris-Saclay (CIRED / AgroParisTech) |
 | 2020–2021 | Master, Energy, Finance & Carbon (EFC) | Université Paris Dauphine PSL |
 | 2018–2020 | Master, Administrative & Judicial Careers | Sciences Po Grenoble |
 | 2016–2017 | International Mobility Year | University of Ottawa |
