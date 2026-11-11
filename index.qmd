@@ -22,7 +22,7 @@ about:
 
 <br>
 
-Welcome! I am a macroeconomic modeller at the [French Development Agency (AFD)](https://www.afd.fr/en), working on the Horizon Europe project SPARK4B+. I hold a PhD in Economics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) ([CIRED](https://www.centre-cired.fr/en/), [AgroParisTech](https://www.agroparistech.fr/en)), defended on 5 October 2026.
+Welcome! I am a postdoctoral researcher and macroeconomic modeller at the [French Development Agency (AFD)](https://www.afd.fr/en), working on the Horizon Europe project SPARK4B+, and I am affiliated with Sciences Po (CRIS). I hold a PhD in Economics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) ([CIRED](https://www.centre-cired.fr/en/), [AgroParisTech](https://www.agroparistech.fr/en)), defended on 5 October 2026.
 
 I examine the political economy of environmental finance instruments, macro-financial constraints on sustainability transitions, and the institutional economics of North–South environmental funding. Empirical work spans Senegal, Colombia, and France, and methods include macroeconomic modelling, econometrics, and mixed-methods empirical research.
 
